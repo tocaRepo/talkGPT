@@ -1,0 +1,27 @@
+[
+    {
+        "text": "you have a dog called ned",
+        "timestamp": "2022-04-13 12:00:00",
+        "tag": "memory"
+    },
+    {
+        "text": "ned is a Shih Tzu",
+        "timestamp": "2022-04-14 10:30:00",
+        "tag": "memory"
+    },
+    {
+        "text": "peep show tvshow is great, it's my favorite tv show",
+        "timestamp": "2022-04-14 08:45:00",
+        "tag": "preference"
+    },
+    {
+        "text": "i like apples",
+        "timestamp": "2022-04-14 15:20:00",
+        "tag": "preference"
+    },
+    {
+        "text": "ned and you played in march 2023 last time",
+        "timestamp": "2023-04-14 15:47:56",
+        "tag": "memory"
+    }
+]

@@ -1,0 +1,14 @@
+import pyaudio
+
+# Define the audio parameters
+RATE = 16000
+CHUNK = 1024
+RECORD_SECONDS = 8
+FORMAT = pyaudio.paInt16
+THRESHOLD = 900
+SOFT_THRESHOLD = 50
+
+HEADPHONE_THRESHOLD = 100
+CHANNELS = 1
+OUTPUT_FOLDER = "processing/"
+WAVE_OUTPUT_FILENAME = "audio"
